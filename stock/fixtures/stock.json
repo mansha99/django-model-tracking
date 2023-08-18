@@ -1,0 +1,38 @@
+[
+    {
+        "model": "stock.Stock",
+        "pk": 1,
+        "fields": {
+            "code": "500325",
+            "name": "RELIANCE INDUSTRIES LTD.",
+            "current_value": 2556.70
+        }
+    },
+    {
+        "model": "stock.Stock",
+        "pk": 2,
+        "fields": {
+            "code": "532540",
+            "name": "TATA CONSULTANCY SERVICES LTD.",
+            "current_value": 3367.65
+        }
+    },
+    {
+        "model": "stock.Stock",
+        "pk": 3,
+        "fields": {
+            "code": "500180",
+            "name": "HDFC Bank Ltd",
+            "current_value": 1591.15
+        }
+    },
+    {
+        "model": "stock.Stock",
+        "pk": 4,
+        "fields": {
+            "code": "532174",
+            "name": "ICICI BANK LTD.",
+            "current_value": 950.95
+        }
+    }
+]
